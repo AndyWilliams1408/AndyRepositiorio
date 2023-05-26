@@ -2,7 +2,7 @@
 
 # Universidad Politécnica Salesiana
 
-# Carrera de Ingeniería en Ciencias de la Computación
+Carrera de Ingeniería en Ciencias de la Computación
 
 - HTML5
 - CSS2 y CSS3
