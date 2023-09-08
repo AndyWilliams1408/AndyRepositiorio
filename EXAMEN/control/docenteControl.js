@@ -1,4 +1,4 @@
-const Docente = require('../models/docente');
+const Docente = require('../modelo/docente');
 
 // Operación para crear un nuevo docente
 exports.createDocente = async (req, res) => {
